@@ -8,7 +8,7 @@
   "server": {
     "ip": "LackSMP.aternos.me",
     "port": 43514,
-    "version": "1.21.11",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
